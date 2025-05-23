@@ -622,4 +622,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.229:8880?encryption=none&
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@[2606:4700:9b08:7ce1:8882:ba8c:2880:c619]:443?encryption=none&security=tls&sni=xl.ylka.dpdns.org&type=ws&host=xl.ylka.dpdns.org&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%28yudou77.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://www.naidounode.com/node/20250523-v2ray.txt
-未获取到到节点，错误代码:520 Server Error: <none> for url: https://v2rayshare.githubrowcontent.com/2025/05/20250523.txt
+未获取到到节点，错误代码:522 Server Error: <none> for url: https://v2rayshare.githubrowcontent.com/2025/05/20250523.txt
